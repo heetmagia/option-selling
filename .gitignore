@@ -1,0 +1,68 @@
+# Configuration with sensitive credentials
+config.py
+*.env
+.env
+
+# API Keys and secrets
+*.key
+*.pem
+secrets.txt
+
+# Data files (keep samples, ignore generated logs)
+trade_log.csv
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Cache
+*.cache
+.cache/
+
+# Temporary files
+*.tmp
+*.bak
+temp/
+tmp/
+
+# Order logs (optional - uncomment if you want to ignore)
+# orders_*.csv
+# positions_*.csv
