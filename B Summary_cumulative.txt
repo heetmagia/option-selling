@@ -1,0 +1,22 @@
+ALL MONTHS BACKTEST SUMMARY
+total_days=245
+total_pair_trades=4852
+total_pnl=423970.18
+win_rate=63.81%
+pair_sl_exits=697
+max_loss_exits=604
+forced_1459_exits=3551
+
+MONTH-WISE:
+January: selection_rows=441, trades=437, pnl=-95527.48
+February: selection_rows=441, trades=409, pnl=177472.51
+March: selection_rows=378, trades=375, pnl=146592.50
+April: selection_rows=420, trades=407, pnl=6672.50
+May: selection_rows=441, trades=427, pnl=149605.02
+June: selection_rows=399, trades=349, pnl=-9142.47
+July: selection_rows=462, trades=443, pnl=-5007.48
+August: selection_rows=441, trades=414, pnl=-59142.50
+September: selection_rows=441, trades=421, pnl=-109994.98
+October: selection_rows=462, trades=441, pnl=163650.01
+November: selection_rows=378, trades=342, pnl=-58044.97
+December: selection_rows=441, trades=387, pnl=116837.52
